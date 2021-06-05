@@ -4,6 +4,8 @@ MEDICAL REPRESENTATIVE MANAGEMENT SYSTEM
 2. uppdate maven project
 3. run as Spring boot project
 
+GIT Link - https://github.com/sanketshirsat/mr_manager
+
 Restful API's
 
 1.  URL : http://localhost:8080/medical-representative/save
