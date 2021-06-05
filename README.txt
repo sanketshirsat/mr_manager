@@ -4,6 +4,9 @@ MEDICAL REPRESENTATIVE MANAGEMENT SYSTEM
 2. uppdate maven project
 3. run as Spring boot project
 
+DB Used : MySQL
+Kindly change the configuration from application.properties file as per requirements
+
 GIT Link - https://github.com/sanketshirsat/mr_manager
 
 Restful API's
@@ -53,4 +56,4 @@ Restful API's
     Method : GET
 
 5.  URL : http://localhost:8080/medical-representative/delete/{id}
-    Method : GET
+    Method : Delete
